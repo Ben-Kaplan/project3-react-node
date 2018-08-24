@@ -1,0 +1,13 @@
+.comments-style {
+    font-family: 'Do Hyeon', sans-serif;
+    color: white;
+    /* background-color: #94AF52; */
+    list-style-type: none;
+    margin: 0;
+}
+p {
+    border: blanchedalmond solid;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 60%;
+}

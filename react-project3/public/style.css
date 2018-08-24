@@ -1,0 +1,14 @@
+
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(0,0,0, 0.3);
+}
+body {
+    background: url(https://images7.alphacoders.com/295/295752.gif) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    /* background-color: #94AF52 !important; */
+    margin: 0;
+}
